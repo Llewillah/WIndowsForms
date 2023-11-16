@@ -1,0 +1,11 @@
+O:\Programming\Windoes form\SimpleApp1\SimpleApp1\bin\Debug\SimpleApp1.exe.config
+O:\Programming\Windoes form\SimpleApp1\SimpleApp1\bin\Debug\SimpleApp1.exe
+O:\Programming\Windoes form\SimpleApp1\SimpleApp1\bin\Debug\SimpleApp1.pdb
+O:\Programming\Windoes form\SimpleApp1\SimpleApp1\obj\Debug\SimpleApp1.csproj.AssemblyReference.cache
+O:\Programming\Windoes form\SimpleApp1\SimpleApp1\obj\Debug\SimpleApp1.csproj.SuggestedBindingRedirects.cache
+O:\Programming\Windoes form\SimpleApp1\SimpleApp1\obj\Debug\SimpleApp1.Properties.Resources.resources
+O:\Programming\Windoes form\SimpleApp1\SimpleApp1\obj\Debug\SimpleApp1.csproj.GenerateResource.cache
+O:\Programming\Windoes form\SimpleApp1\SimpleApp1\obj\Debug\SimpleApp1.csproj.CoreCompileInputs.cache
+O:\Programming\Windoes form\SimpleApp1\SimpleApp1\obj\Debug\SimpleApp1.exe
+O:\Programming\Windoes form\SimpleApp1\SimpleApp1\obj\Debug\SimpleApp1.pdb
+O:\Programming\Windoes form\SimpleApp1\SimpleApp1\obj\Debug\SimpleApp1.Form1.resources

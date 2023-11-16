@@ -1,0 +1,11 @@
+O:\Programming\Windoes form\LabGUI\LabGUI\bin\Debug\LabGUI.exe.config
+O:\Programming\Windoes form\LabGUI\LabGUI\bin\Debug\LabGUI.exe
+O:\Programming\Windoes form\LabGUI\LabGUI\bin\Debug\LabGUI.pdb
+O:\Programming\Windoes form\LabGUI\LabGUI\obj\Debug\LabGUI.csproj.AssemblyReference.cache
+O:\Programming\Windoes form\LabGUI\LabGUI\obj\Debug\LabGUI.csproj.SuggestedBindingRedirects.cache
+O:\Programming\Windoes form\LabGUI\LabGUI\obj\Debug\LabGUI.Form1.resources
+O:\Programming\Windoes form\LabGUI\LabGUI\obj\Debug\LabGUI.Properties.Resources.resources
+O:\Programming\Windoes form\LabGUI\LabGUI\obj\Debug\LabGUI.csproj.GenerateResource.cache
+O:\Programming\Windoes form\LabGUI\LabGUI\obj\Debug\LabGUI.csproj.CoreCompileInputs.cache
+O:\Programming\Windoes form\LabGUI\LabGUI\obj\Debug\LabGUI.exe
+O:\Programming\Windoes form\LabGUI\LabGUI\obj\Debug\LabGUI.pdb

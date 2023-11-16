@@ -1,0 +1,11 @@
+O:\Programming\Windoes form\BetterCalculator\BetterCalculator\bin\Debug\BetterCalculator.exe.config
+O:\Programming\Windoes form\BetterCalculator\BetterCalculator\bin\Debug\BetterCalculator.exe
+O:\Programming\Windoes form\BetterCalculator\BetterCalculator\bin\Debug\BetterCalculator.pdb
+O:\Programming\Windoes form\BetterCalculator\BetterCalculator\obj\Debug\BetterCalculator.csproj.AssemblyReference.cache
+O:\Programming\Windoes form\BetterCalculator\BetterCalculator\obj\Debug\BetterCalculator.csproj.SuggestedBindingRedirects.cache
+O:\Programming\Windoes form\BetterCalculator\BetterCalculator\obj\Debug\BetterCalculator.Form1.resources
+O:\Programming\Windoes form\BetterCalculator\BetterCalculator\obj\Debug\BetterCalculator.Properties.Resources.resources
+O:\Programming\Windoes form\BetterCalculator\BetterCalculator\obj\Debug\BetterCalculator.csproj.GenerateResource.cache
+O:\Programming\Windoes form\BetterCalculator\BetterCalculator\obj\Debug\BetterCalculator.csproj.CoreCompileInputs.cache
+O:\Programming\Windoes form\BetterCalculator\BetterCalculator\obj\Debug\BetterCalculator.exe
+O:\Programming\Windoes form\BetterCalculator\BetterCalculator\obj\Debug\BetterCalculator.pdb
